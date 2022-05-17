@@ -6,6 +6,7 @@ body {
     margin: 0 auto;
 }
 
+
 #promo {
     background: #264fb4;
     height: 800px;
@@ -46,4 +47,7 @@ footer {
     background: #1f1f1f;
     padding-top: 30px;
     padding-bottom: 10px;
+
+
+
 }
